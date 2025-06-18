@@ -4,14 +4,6 @@ WebAudit es una herramienta de **auditoría web básica y ética**, escrita en P
 
 ---
 
-## ⚠️ Aviso Legal
-
-> Esta herramienta está diseñada **exclusivamente para fines educativos y de auditoría ética**.  
-> No debe ser utilizada contra sistemas o sitios web sin el **consentimiento explícito del propietario**.  
-> El uso indebido puede ser ilegal y tener consecuencias legales.
-
----
-
 ## ✅ Funcionalidades
 
 WebAudit permite realizar auditorías sobre una URL proporcionada, y seleccionar los módulos que deseas ejecutar:
